@@ -9,3 +9,5 @@ def fizzbuzz(number)
     number
   end
 end
+
+#puts (0..100).map { |numbers| fizzbuzz(numbers) }
